@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopEase_E-Commerce.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc145cddff1415b0b8b974d9ab519a58f40c2e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d94d3f59a9c07310c9ad8fc47050e3fc0e72335b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopEase_E-Commerce.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopEase_E-Commerce.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
