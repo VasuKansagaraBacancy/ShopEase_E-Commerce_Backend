@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}|ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj|c:\\users\\patel\\source\\repos\\shopease_e-commerce\\shopease_e-commerce.api\\shopease_e-commerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}|ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj|solutionrelative:shopease_e-commerce.api\\shopease_e-commerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3823E378-6D5A-4DED-997E-3619DF81C15B}|ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj|c:\\users\\patel\\source\\repos\\shopease_e-commerce\\shopease_e-commerce.application\\shopease_e-commerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3823E378-6D5A-4DED-997E-3619DF81C15B}|ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj|solutionrelative:shopease_e-commerce.application\\shopease_e-commerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}|ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj|c:\\users\\patel\\source\\repos\\shopease_e-commerce\\shopease_e-commerce.infrastructure\\shopease_e-commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}|ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj|solutionrelative:shopease_e-commerce.infrastructure\\shopease_e-commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,45 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShopEase_E-Commerce.API.csproj",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj",
-              "RelativeDocumentMoniker": "ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj",
-              "RelativeToolTip": "ShopEase_E-Commerce.API\\ShopEase_E-Commerce.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-26T09:40:15.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShopEase_E-Commerce.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj",
-              "RelativeToolTip": "ShopEase_E-Commerce.Infrastructure\\ShopEase_E-Commerce.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-26T09:39:54.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopEase_E-Commerce.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj",
-              "RelativeDocumentMoniker": "ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj",
-              "ToolTip": "C:\\Users\\patel\\source\\repos\\ShopEase_E-Commerce\\ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj",
-              "RelativeToolTip": "ShopEase_E-Commerce.Application\\ShopEase_E-Commerce.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-26T09:39:40.981Z",
-              "EditorCaption": ""
             }
           ]
         }
