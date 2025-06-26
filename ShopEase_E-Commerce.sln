@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopEase_E-Commerce.API", "ShopEase_E-Commerce.API\ShopEase_E-Commerce.API.csproj", "{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopEase_E-Commerce.Application", "ShopEase_E-Commerce.Application\ShopEase_E-Commerce.Application.csproj", "{3823E378-6D5A-4DED-997E-3619DF81C15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopEase_E-Commerce.Domain", "ShopEase_E-Commerce.Domain\ShopEase_E-Commerce.Domain.csproj", "{24E8B973-3685-42B3-A108-04C17F3EDCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopEase_E-Commerce.Infrastructure", "ShopEase_E-Commerce.Infrastructure\ShopEase_E-Commerce.Infrastructure.csproj", "{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4301F5-7FCF-4D2E-903E-1BE28AD7E6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3823E378-6D5A-4DED-997E-3619DF81C15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3823E378-6D5A-4DED-997E-3619DF81C15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3823E378-6D5A-4DED-997E-3619DF81C15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3823E378-6D5A-4DED-997E-3619DF81C15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E8B973-3685-42B3-A108-04C17F3EDCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E8B973-3685-42B3-A108-04C17F3EDCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E8B973-3685-42B3-A108-04C17F3EDCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E8B973-3685-42B3-A108-04C17F3EDCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01C8FB-55D0-49FE-BC93-FC1876DB5958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\bin\Debug\net8.0\ShopEase_E-Commerce.Domain.deps.json
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\bin\Debug\net8.0\ShopEase_E-Commerce.Domain.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\bin\Debug\net8.0\ShopEase_E-Commerce.Domain.pdb
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\refint\ShopEase_E-Commerce.Domain.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ShopEase_E-Commerce.Domain.pdb
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Domain\obj\Debug\net8.0\ref\ShopEase_E-Commerce.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\bin\Debug\net8.0\ShopEase_E-Commerce.Application.deps.json
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\bin\Debug\net8.0\ShopEase_E-Commerce.Application.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\bin\Debug\net8.0\ShopEase_E-Commerce.Application.pdb
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\bin\Debug\net8.0\ShopEase_E-Commerce.Domain.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\bin\Debug\net8.0\ShopEase_E-Commerce.Domain.pdb
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.csproj.AssemblyReference.cache
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.AssemblyInfo.cs
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase.8AC8F114.Up2Date
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\refint\ShopEase_E-Commerce.Application.dll
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ShopEase_E-Commerce.Application.pdb
+C:\Users\patel\source\repos\ShopEase_E-Commerce\ShopEase_E-Commerce.Application\obj\Debug\net8.0\ref\ShopEase_E-Commerce.Application.dll

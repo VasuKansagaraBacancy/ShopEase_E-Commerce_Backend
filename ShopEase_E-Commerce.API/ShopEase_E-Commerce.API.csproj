@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ShopEase_E_Commerce.API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopEase_E-Commerce.Application\ShopEase_E-Commerce.Application.csproj" />
+    <ProjectReference Include="..\ShopEase_E-Commerce.Infrastructure\ShopEase_E-Commerce.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
