@@ -11,4 +11,9 @@
     <ProjectReference Include="..\ShopEase_E-Commerce.Application\ShopEase_E-Commerce.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
